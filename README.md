@@ -1,4 +1,4 @@
-# 🚀 Baileys WhatsApp API - By kagenouReal
+# 🚀 Baileys WhatsApp API - By kagenouReal [ Fork By TamaRebirth ]
 
 ![GitHub stars](https://img.shields.io/github/stars/kagenouReal/Baileys?style=social)
 ![GitHub license](https://img.shields.io/github/license/kagenouReal/Baileys)
